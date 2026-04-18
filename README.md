@@ -1,6 +1,5 @@
 # LinkUp — Platform Koneksi & Pertemanan Online
 
-> Proyek UTS Pemrograman Web Lanjutan | Kode MK: 23H07121103
 
 LinkUp adalah sistem **microservice RESTful API** yang dibangun menggunakan FastAPI untuk mengelola platform pertemanan online. Pengguna dapat membuat profil, mencari pengguna lain, dan mengelola koneksi pertemanan.
 
