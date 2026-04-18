@@ -187,6 +187,3 @@ Import file `linkup-api.json` ke Postman untuk koleksi lengkap.
 
 ---
 
-## Author
-
-**[Nama Lengkap]** — [NIM] | Universitas Hasanuddin
